@@ -1,0 +1,10 @@
+https://learngitbranching.js.org/?locale=uk - визуализация веток
+
+git branch - показывает существующие ветки
+git branch name - создает новую ветку name
+git switch name - сменить предыдущую ветку на name
+git merge name - слить две ветки в одну
+git merge --abort - отмена слияния двух веток в одну
+dit switch --detach [id] - переключает на ветку по идентификатору [id] (на конкретный коммит)
+git branch -m newName - переименовать ветку в newName
+git log --oneline --all --graph - показывает все в одну линию в виде графика
